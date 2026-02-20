@@ -1,19 +1,21 @@
-### [Foobar](https://foobar.com)
+### [Postman](https://postman.com)
 
 #### Install using Git
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Clone the repository to keep the theme up to date with the latest changes:
 
 ```bash
-git clone https://github.com/dracula/foobar.git
+git clone https://github.com/dracula/postman.git
 ```
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+Download the [`.zip` archive](https://github.com/dracula/postman/archive/main.zip) from GitHub and extract it.
 
-#### Activating theme
+#### Activating the theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Open Postman and go to **File → Settings**.
+2. Navigate to the **Themes** tab.
+3. Under **Theme selection**, choose either **Sync with system** or **Manual**.
+   - **Sync with system** — select **Dracula** from the dropdown.
+   - **Manual** — click on the **Dracula** swatch.

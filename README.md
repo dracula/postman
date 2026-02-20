@@ -6,13 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/postman](https://draculatheme.com/postman) or below :
-
-1. Open Postman → File → Settings
-2. Click to the `Themes` section.
-3. Choose `Theme selection` between `Sync with system` or `Manual`
-4. For `Sync with system` select Dracula in dropdown
-4. For `Manual` click on Dracula
+All instructions can be found at [draculatheme.com/postman](https://draculatheme.com/postman).
 
 ## Team
 
